@@ -1,0 +1,2 @@
+# Class-Set
+Create a class Set - a set of integers using dynamic memory. Define operators for working with sets: "+" - union, "*" - intersection, "-" subtraction, like friend functions, and "+=" - inclusion of a new element in the set, "==" – comparisons for equality, etc. as class methods. Define the "&lt;&lt;" and ">>" operators. Also define a function for determining whether an element belongs to a set.
